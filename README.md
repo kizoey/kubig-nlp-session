@@ -9,15 +9,15 @@ Weekly plan of the session and assignments are listed below.
 
 <h2> Weekly plan </h2>
 
-week | about | assignment 
----- | ---- | ----
-1 | Session O.T. | -
-2 | Neural Networks, Natural Language and Word Representation | pmi matrix, data crawling, wordcloud
-3 | Word2vec | t-SNE, pre-trained models
-4 | Word2vec improvement | word2vec (skipgram)
-5 | RNN | simpleRNN
-6 | Gated RNN | nlp contest prep
-7 | Text generation, Attention | nlp contest prep
+week | about | assignment | file
+---- | ---- | ---- | ----
+1 | Session O.T. | - | -
+2 | Word Representation | pmi matrix, data crawling, wordcloud | Amazon review_n-gram
+3 | Word2vec | t-SNE, pre-trained models | Everytime_word2vec, t-SNE
+4 | Word2vec improvement | word2vec (skipgram) | News data_word2vec
+5 | RNN | simpleRNN | LSTM chatbot
+6 | Gated RNN | nlp contest prep | - 
+7 | Text generation, Attention | nlp contest prep | -
 
 <h2> NLP contest </h2>
 
